@@ -13,4 +13,5 @@ The Elbow Method is used to determine the optimal number of clusters (K). The pl
 
 ## Visualizations
 Before Clustering: The initial scatter plot of data points based on Annual Income and Spending Score.
+
 After Clustering: A scatter plot with data points color-coded by cluster and the centroids marked.
